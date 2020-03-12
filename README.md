@@ -32,7 +32,7 @@ For instance
 ```
 git clone git@github.com:packageaddress
 ```
-Where *git@github.com:packageaddress* has to be substituted with the link that you can find on the **Clone or Download** green button in this page.
+<Where *git@github.com:packageaddress* has to be substituted with the link that you can find on the **Clone or Download** green button in this page.
 git@gitlab.com:mrazzano-dockers/docker-mmlab.git
 
 **IMPORTANT** As you have seen in Gitlab already, also in this case you will be asked for a password (if putting a HTTPS address), or you will be denied access (if using the ssh address). In order to create a SSH key and add it to Github, there are similar steps to those you have done already for gitlab. You can find more informtion at this [link on Github.com](https://help.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh)
