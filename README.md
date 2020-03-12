@@ -2,19 +2,18 @@
 
 ## Introduction
 This set of Python Notebooks are meant to be help in getting more familiar with the
-Python functions used to read and manipulate datasets in three main formats used in multimessenger
+Python functions used to read and manipulate datasets in two main formats used in multimessenger
 science:
 
 * CSV (Comma-separated values): ASCII-based text files
 * FITS (Flexible Image Transport Sysyem), the standard in astrophysics
-* HDF5 (High Density Format), useful to stor big data
 
+Later on, in future tutorials, we will see more formats, but for now let's focus on these two.
 
 ## What do you have to do?
-You will find 3 sets of tutorial+exercises:
+You will find 2 sets of tutorial+exercises:
 * **Set 1** - Reading and manipulating CSV files
 * **Set 2** - Reading and manipulating FITS files
-* **Set 2** - Reading and manipulating HDF5 files
 
 For each set, first look at the tutorial, check the code, run it and do modifications in order to be sure that you've understand how it works.
 
